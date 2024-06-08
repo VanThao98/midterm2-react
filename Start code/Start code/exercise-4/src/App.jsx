@@ -1,5 +1,5 @@
 import { Carousel } from "./components/Carousel";
-
+import React from "react";
 import { ALL_IMAGES } from "./data/imagesData.js";
 
 function App() {
